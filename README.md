@@ -26,25 +26,10 @@
 - Engineered factor models + ML classifiers  
 - Generated long/short signals  
 - Backtested across equities and crypto  
-🔗 *Repo:* [link-to-project](#)
+🔗 *Repo:* [https://github.com/Raghavendrapara/quant-mill](#)
 
 ---
 
-### 📌 Deep Learning Stock Prediction
-**Tech:** LSTM, GRU, CNN  
-- Predict short-term returns using sequence data  
-- Experimented with multi-feature windowing  
-🔗 *Repo:* [link-to-project](#)
-
----
-
-### 📌 Hazelcast Performance Optimization (Real Bank Project)
-- Reduced cache latency **180ms → 70ms**
-- Migrated legacy monolith to microservices  
-- Improved CI/CD pipelines  
-🔗 *Case Study:* [link-to-case-study-or-resume](#)
-
----
 
 ## 📈 GitHub Stats
 <p align="center">

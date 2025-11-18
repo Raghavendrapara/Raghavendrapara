@@ -78,5 +78,5 @@
 </p>
 
 
-- LinkedIn: https://www.linkedin.com/in/your-link
-- Mail: youremail@example.com
+- LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/raghavendra-singh-chauhan-474a7b155)
+- Mail: rsc4200@gmail.com

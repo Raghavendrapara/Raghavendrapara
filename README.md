@@ -1,35 +1,4 @@
 <h1 align="center">Hi 👋, I'm Raghavendra</h1>
-<h3 align="center">Machine Learning | Quantitative Trading | Backend Engineering</h3>
-
----
-
-### 🚀 About Me
-- 🔭 Currently building **Quant ML trading systems**
-- 💼 Software Engineer (2.5+ yrs) – high-performance backend, distributed systems
-- 📊 Interested in AI for finance, trading signals, and data-driven investing
-
----
-
-## 🧠 Tech & Tools
-**Languages:** Python, Java, C++  
-**ML/AI:** PyTorch, TensorFlow, Scikit-Learn  
-**Quant/Finance:** TA-Lib, Backtesting.py, pandas, numpy  
-**Backend:** Spring Boot, Kafka, RabbitMQ, Hazelcast  
-**DevOps:** Docker, GitHub Actions, Linux  
-
----
-
-## 🧩 Featured Projects
-
-### 📌 Quant Trading System (ML + Backtesting)
-**Tech:** PyTorch, pandas, sklearn  
-- Engineered factor models + ML classifiers  
-- Generated long/short signals  
-- Backtested across equities and crypto  
-🔗 *Repo:* [https://github.com/Raghavendrapara/quant-mill](#)
-
----
-
 
 ## 📈 GitHub Stats
 <p align="center">
